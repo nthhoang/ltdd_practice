@@ -55,4 +55,5 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.test.manifest)
 
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
+    implementation("io.coil-kt:coil-compose:2.7.0")
 }
